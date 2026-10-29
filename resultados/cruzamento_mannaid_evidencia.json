@@ -1,0 +1,579 @@
+{
+ "pareamento": {
+  "mannaid_participantes": 213,
+  "mannaid_por_programa": {
+   "BRAx": 95,
+   "Champion Chip": 91,
+   "sem programa": 14,
+   "Outro": 13
+  },
+  "evidencia_residentes": {
+   "BRAx": 104,
+   "Chip": 94
+  },
+  "pareados": 174,
+  "nos_dois_programas": 2,
+  "pareados_por_via": {
+   "email": 141,
+   "nome": 29,
+   "nome aproximado": 4
+  },
+  "programa_concorda": 169,
+  "residentes_sem_museu": {
+   "Chip": 11,
+   "BRAx": 11
+  },
+  "residentes_ativos_sem_museu": {
+   "Chip": 9,
+   "BRAx": 9
+  }
+ },
+ "funil": {
+  "Total": {
+   "no_museu_e_no_programa": 174,
+   "ativos": 158,
+   "oficina": [
+    92.4,
+    87.2,
+    95.6,
+    158
+   ],
+   "avalia": [
+    63.9,
+    56.2,
+    71.0,
+    158
+   ],
+   "aplicacao_completa": [
+    50.6,
+    42.9,
+    58.3,
+    158
+   ],
+   "alunos_alcancados": 2475,
+   "aplicacoes": 416
+  },
+  "BRAx": {
+   "no_museu_e_no_programa": 91,
+   "ativos": 83,
+   "oficina": [
+    96.4,
+    89.9,
+    98.8,
+    83
+   ],
+   "avalia": [
+    72.3,
+    61.8,
+    80.8,
+    83
+   ],
+   "aplicacao_completa": [
+    57.8,
+    47.1,
+    67.9,
+    83
+   ],
+   "alunos_alcancados": 1647,
+   "aplicacoes": 260
+  },
+  "Chip": {
+   "no_museu_e_no_programa": 83,
+   "ativos": 75,
+   "oficina": [
+    88.0,
+    78.7,
+    93.6,
+    75
+   ],
+   "avalia": [
+    54.7,
+    43.4,
+    65.4,
+    75
+   ],
+   "aplicacao_completa": [
+    42.7,
+    32.1,
+    53.9,
+    75
+   ],
+   "alunos_alcancados": 828,
+   "aplicacoes": 156
+  },
+  "residentes_ativos_fora_do_museu": {
+   "n": 18,
+   "avalia": [
+    55.6,
+    33.7,
+    75.4,
+    18
+   ],
+   "oficina": [
+    83.3,
+    60.8,
+    94.2,
+    18
+   ]
+  }
+ },
+ "antecipa": {
+  "desfecho": "avalia os alunos no Manna Evidência (residentes ativos)",
+  "continuas": {
+   "dias_presentes": {
+    "avalia_media": 2.41,
+    "avalia_mediana": 2.0,
+    "n_avalia": 100,
+    "nao_avalia_media": 2.26,
+    "nao_avalia_mediana": 2.0,
+    "n_nao": 57,
+    "r_rank_biserial": -0.14,
+    "p": 0.08319005081258428
+   },
+   "questionarios": {
+    "avalia_media": 3.72,
+    "avalia_mediana": 4.0,
+    "n_avalia": 100,
+    "nao_avalia_media": 3.68,
+    "nao_avalia_mediana": 4.0,
+    "n_nao": 56,
+    "r_rank_biserial": -0.037,
+    "p": 0.6024962849691597
+   },
+   "canais": {
+    "avalia_media": 9.46,
+    "avalia_mediana": 10.0,
+    "n_avalia": 101,
+    "nao_avalia_media": 9.42,
+    "nao_avalia_mediana": 10.0,
+    "n_nao": 57,
+    "r_rank_biserial": -0.058,
+    "p": 0.4590115067488596
+   },
+   "kitReportCount": {
+    "avalia_media": 21.13,
+    "avalia_mediana": 15.0,
+    "n_avalia": 101,
+    "nao_avalia_media": 18.63,
+    "nao_avalia_mediana": 14.0,
+    "n_nao": 57,
+    "r_rank_biserial": -0.093,
+    "p": 0.3341526752292844
+   },
+   "commentCount": {
+    "avalia_media": 11.12,
+    "avalia_mediana": 9.0,
+    "n_avalia": 101,
+    "nao_avalia_media": 7.56,
+    "nao_avalia_mediana": 6.0,
+    "n_nao": 57,
+    "r_rank_biserial": -0.205,
+    "p": 0.03256615282511033
+   },
+   "connectionCount": {
+    "avalia_media": 90.34,
+    "avalia_mediana": 71.0,
+    "n_avalia": 101,
+    "nao_avalia_media": 72.79,
+    "nao_avalia_mediana": 56.0,
+    "n_nao": 57,
+    "r_rank_biserial": -0.178,
+    "p": 0.06374515369134504
+   },
+   "auditoriumResponseCount": {
+    "avalia_media": 4.61,
+    "avalia_mediana": 5.0,
+    "n_avalia": 101,
+    "nao_avalia_media": 4.21,
+    "nao_avalia_mediana": 4.0,
+    "n_nao": 57,
+    "r_rank_biserial": -0.13,
+    "p": 0.17129772107372865
+   },
+   "pos_exploracao": {
+    "avalia_media": 4.04,
+    "avalia_mediana": 4.0,
+    "n_avalia": 86,
+    "nao_avalia_media": 4.16,
+    "nao_avalia_mediana": 4.0,
+    "n_nao": 44,
+    "r_rank_biserial": 0.168,
+    "p": 0.1083120898058209
+   },
+   "pos_experimentacao": {
+    "avalia_media": 4.09,
+    "avalia_mediana": 4.0,
+    "n_avalia": 86,
+    "nao_avalia_media": 4.12,
+    "nao_avalia_mediana": 4.0,
+    "n_nao": 44,
+    "r_rank_biserial": 0.044,
+    "p": 0.6746961417386464
+   },
+   "pos_reflexao": {
+    "avalia_media": 4.23,
+    "avalia_mediana": 4.33,
+    "n_avalia": 86,
+    "nao_avalia_media": 4.26,
+    "nao_avalia_mediana": 4.33,
+    "n_nao": 44,
+    "r_rank_biserial": 0.052,
+    "p": 0.620425457150624
+   },
+   "pos_colaboracao": {
+    "avalia_media": 4.29,
+    "avalia_mediana": 4.33,
+    "n_avalia": 86,
+    "nao_avalia_media": 4.37,
+    "nao_avalia_mediana": 4.33,
+    "n_nao": 44,
+    "r_rank_biserial": 0.104,
+    "p": 0.3239789705577698
+   },
+   "pos_4d": {
+    "avalia_media": 4.16,
+    "avalia_mediana": 4.08,
+    "n_avalia": 86,
+    "nao_avalia_media": 4.23,
+    "nao_avalia_mediana": 4.25,
+    "n_nao": 44,
+    "r_rank_biserial": 0.143,
+    "p": 0.18250760875364436
+   },
+   "textos": {
+    "avalia_media": 2.78,
+    "avalia_mediana": 3.0,
+    "n_avalia": 99,
+    "nao_avalia_media": 2.71,
+    "nao_avalia_mediana": 3.0,
+    "n_nao": 56,
+    "r_rank_biserial": -0.057,
+    "p": 0.40676426633171403
+   },
+   "nivel_max": {
+    "avalia_media": 3.34,
+    "avalia_mediana": 3.0,
+    "n_avalia": 99,
+    "nao_avalia_media": 3.41,
+    "nao_avalia_mediana": 4.0,
+    "n_nao": 56,
+    "r_rank_biserial": 0.029,
+    "p": 0.7592212293237515
+   }
+  },
+  "binarias": {
+   "intencao_30d": {
+    "com": [
+     65.5,
+     56.5,
+     73.5,
+     116
+    ],
+    "sem": [
+     71.4,
+     45.4,
+     88.3,
+     14
+    ],
+    "p_fisher": 0.7715620438409535
+   },
+   "confianca_alta": {
+    "com": [
+     68.6,
+     59.8,
+     76.3,
+     118
+    ],
+    "sem": [
+     41.7,
+     19.3,
+     68.0,
+     12
+    ],
+    "p_fisher": 0.1048780901660164
+   },
+   "explorar_primeiro": {
+    "com": [
+     64.1,
+     53.9,
+     73.2,
+     92
+    ],
+    "sem": [
+     64.4,
+     51.7,
+     75.4,
+     59
+    ],
+    "p_fisher": 1.0
+   },
+   "n4n5_algum": {
+    "com": [
+     60.8,
+     49.4,
+     71.1,
+     74
+    ],
+    "sem": [
+     66.7,
+     55.9,
+     76.0,
+     81
+    ],
+    "p_fisher": 0.5046140565290512
+   },
+   "n4n5_pos": {
+    "com": [
+     60.8,
+     47.1,
+     73.0,
+     51
+    ],
+    "sem": [
+     69.6,
+     58.8,
+     78.7,
+     79
+    ],
+    "p_fisher": 0.3445951579740961
+   }
+  }
+ },
+ "intensidade_entre_quem_avalia": {
+  "dias_presentes~aplicacoes": [
+   0.107,
+   0.2889344058874592,
+   100
+  ],
+  "dias_presentes~alunos": [
+   0.045,
+   0.6583032771836997,
+   100
+  ],
+  "questionarios~aplicacoes": [
+   0.042,
+   0.6801160608322848,
+   100
+  ],
+  "questionarios~alunos": [
+   0.128,
+   0.20309639022702589,
+   100
+  ],
+  "canais~aplicacoes": [
+   0.123,
+   0.2200428744303003,
+   101
+  ],
+  "canais~alunos": [
+   0.108,
+   0.2836578434052079,
+   101
+  ],
+  "kitReportCount~aplicacoes": [
+   -0.09,
+   0.3704775920501425,
+   101
+  ],
+  "kitReportCount~alunos": [
+   0.038,
+   0.7041312275022626,
+   101
+  ],
+  "commentCount~aplicacoes": [
+   -0.118,
+   0.24070493302991447,
+   101
+  ],
+  "commentCount~alunos": [
+   -0.133,
+   0.18440867551762016,
+   101
+  ],
+  "connectionCount~aplicacoes": [
+   -0.008,
+   0.9349444735768955,
+   101
+  ],
+  "connectionCount~alunos": [
+   0.131,
+   0.19190680732232604,
+   101
+  ],
+  "auditoriumResponseCount~aplicacoes": [
+   -0.044,
+   0.6597396517919529,
+   101
+  ],
+  "auditoriumResponseCount~alunos": [
+   -0.075,
+   0.4540525475901596,
+   101
+  ],
+  "pos_exploracao~aplicacoes": [
+   0.162,
+   0.13508420163608822,
+   86
+  ],
+  "pos_exploracao~alunos": [
+   0.018,
+   0.8690069306755718,
+   86
+  ],
+  "pos_experimentacao~aplicacoes": [
+   -0.026,
+   0.8092155498309515,
+   86
+  ],
+  "pos_experimentacao~alunos": [
+   -0.08,
+   0.461806225489363,
+   86
+  ],
+  "pos_reflexao~aplicacoes": [
+   0.169,
+   0.1196215215441568,
+   86
+  ],
+  "pos_reflexao~alunos": [
+   0.159,
+   0.14415986912090517,
+   86
+  ],
+  "pos_colaboracao~aplicacoes": [
+   -0.056,
+   0.6085567721077422,
+   86
+  ],
+  "pos_colaboracao~alunos": [
+   0.058,
+   0.5933165678711417,
+   86
+  ],
+  "pos_4d~aplicacoes": [
+   0.053,
+   0.6307778834885817,
+   86
+  ],
+  "pos_4d~alunos": [
+   0.058,
+   0.5943519799491495,
+   86
+  ],
+  "textos~aplicacoes": [
+   0.037,
+   0.7126043358487636,
+   99
+  ],
+  "textos~alunos": [
+   0.134,
+   0.18513912666124316,
+   99
+  ],
+  "nivel_max~aplicacoes": [
+   -0.07,
+   0.4901988432636069,
+   99
+  ],
+  "nivel_max~alunos": [
+   -0.056,
+   0.5839676344570263,
+   99
+  ]
+ },
+ "tempo_dias_apos_museu": {
+  "primeira_oficina": {
+   "mediana": 32.0,
+   "q1": 25.0,
+   "q3": 45.0,
+   "n": 146
+  },
+  "primeiro_boletim": {
+   "mediana": 100.0,
+   "q1": 78.0,
+   "q3": 143.0,
+   "n": 101
+  }
+ },
+ "gradiente_envolvimento": {
+  "tercos": {
+   "menor": {
+    "n": 53,
+    "oficina": [
+     84.9,
+     72.9,
+     92.1,
+     53
+    ],
+    "avalia": [
+     52.8,
+     39.7,
+     65.6,
+     53
+    ],
+    "aplicacao_completa": [
+     34.0,
+     22.7,
+     47.4,
+     53
+    ],
+    "comentarios_mediana": 3.0,
+    "conexoes_mediana": 33.0
+   },
+   "intermediário": {
+    "n": 52,
+    "oficina": [
+     94.2,
+     84.4,
+     98.0,
+     52
+    ],
+    "avalia": [
+     61.5,
+     48.0,
+     73.5,
+     52
+    ],
+    "aplicacao_completa": [
+     50.0,
+     36.9,
+     63.1,
+     52
+    ],
+    "comentarios_mediana": 8.0,
+    "conexoes_mediana": 65.5
+   },
+   "maior": {
+    "n": 53,
+    "oficina": [
+     98.1,
+     90.1,
+     99.7,
+     53
+    ],
+    "avalia": [
+     77.4,
+     64.5,
+     86.5,
+     53
+    ],
+    "aplicacao_completa": [
+     67.9,
+     54.5,
+     78.9,
+     53
+    ],
+    "comentarios_mediana": 14.0,
+    "conexoes_mediana": 136.0
+   }
+  },
+  "p_tendencia_spearman": 0.0031141593161233385,
+  "p_qui2": 0.028655919901871375
+ },
+ "peso_do_museu_no_sistema": {
+  "professores_que_avaliam_total": 113,
+  "dos_quais_estiveram_no_museu": 103,
+  "alunos_total": 2627,
+  "alunos_de_professores_do_museu": 2470
+ }
+}

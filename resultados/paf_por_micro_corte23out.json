@@ -1,0 +1,71 @@
+{
+ "ED2": {
+  "trajetorias": 454,
+  "exploracao": [
+   3.23,
+   3.56
+  ],
+  "experimentacao": [
+   3.47,
+   3.76
+  ],
+  "reflexao": [
+   3.54,
+   3.75
+  ],
+  "colaboracao": [
+   3.75,
+   3.86
+  ],
+  "engajamento": [
+   3.7,
+   3.81
+  ]
+ },
+ "IoD": {
+  "trajetorias": 1074,
+  "exploracao": [
+   3.32,
+   3.58
+  ],
+  "experimentacao": [
+   3.51,
+   3.7
+  ],
+  "reflexao": [
+   3.58,
+   3.77
+  ],
+  "colaboracao": [
+   3.86,
+   3.94
+  ],
+  "engajamento": [
+   3.74,
+   3.83
+  ]
+ },
+ "P4C": {
+  "trajetorias": 759,
+  "exploracao": [
+   3.61,
+   3.8
+  ],
+  "experimentacao": [
+   3.75,
+   3.94
+  ],
+  "reflexao": [
+   3.77,
+   3.93
+  ],
+  "colaboracao": [
+   3.97,
+   4.06
+  ],
+  "engajamento": [
+   3.89,
+   4.01
+  ]
+ }
+}

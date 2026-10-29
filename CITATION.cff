@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Se usar estes dados ou scripts, cite a tese e este repositório."
+title: "Pacote experimental da tese: Metodologia Manna"
+type: dataset
+authors:
+  - family-names: Madrigar
+    given-names: Tiago Tadeu
+    orcid: "https://orcid.org/0000-0003-4244-0509"
+    affiliation: Universidade Estadual de Maringá
+license: CC-BY-4.0
+repository-code: "https://github.com/tmadrigar/manna-tese-pacote-experimental"
+keywords:
+  - Educação 5.0
+  - avaliação formativa
+  - formação docente em cascata
+  - analítica da aprendizagem
+preferred-citation:
+  type: thesis
+  title: "Metodologia Manna: avaliação formativa adaptativa e computacional em escala nacional, da residência docente à sala de aula para a Educação 5.0"
+  authors:
+    - family-names: Madrigar
+      given-names: Tiago Tadeu
+  institution:
+    name: Universidade Estadual de Maringá
+  year: 2026
+  thesis-type: "Tese de doutorado em Ciência da Computação"

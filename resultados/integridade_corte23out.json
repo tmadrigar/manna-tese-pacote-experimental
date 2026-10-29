@@ -1,0 +1,32 @@
+{
+ "Total": {
+  "boletins": 19373,
+  "marcados": 2192,
+  "marcados_pct": 11.3,
+  "por_regra": {
+   "autoplagio": 1130,
+   "ruido": 920,
+   "copia_coletiva": 142
+  }
+ },
+ "BRAx": {
+  "boletins": 13425,
+  "marcados": 1469,
+  "marcados_pct": 10.9,
+  "por_regra": {
+   "autoplagio": 655,
+   "ruido": 750,
+   "copia_coletiva": 64
+  }
+ },
+ "Chip": {
+  "boletins": 5948,
+  "marcados": 723,
+  "marcados_pct": 12.2,
+  "por_regra": {
+   "autoplagio": 475,
+   "ruido": 170,
+   "copia_coletiva": 78
+  }
+ }
+}
